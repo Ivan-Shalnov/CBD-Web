@@ -1,0 +1,12 @@
+body {
+  font-family: 'Besley';
+  color: $text-color;
+}
+img,
+svg {
+  display: block;
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  max-height: 100%;
+}

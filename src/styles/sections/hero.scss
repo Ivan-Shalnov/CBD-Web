@@ -1,0 +1,50 @@
+.hero-sect {
+  margin-top: -150px;
+  margin-bottom: 160px;
+  padding-top: 250px;
+  padding-bottom: 75px;
+
+  background: rgba(0, 0, 0, 0.08);
+  position: relative;
+  &::after {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 100%);
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 105px 120px 0 120px;
+    border-color: rgba(0, 0, 0, 0.08) transparent transparent transparent;
+  }
+  &__wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__container {
+    max-width: 580px;
+  }
+  &__title {
+    margin-bottom: 40px;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 109%;
+    /* or 70px */
+
+    color: $white;
+  }
+  &__text {
+    margin-bottom: 40px;
+    font-size: 30px;
+    line-height: 130%;
+    /* or 39px */
+
+    color: $white;
+  }
+  &__img {
+    max-width: 445px;
+  }
+}

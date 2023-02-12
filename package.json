@@ -1,0 +1,26 @@
+{
+  "name": "cbd",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Shalnov/CBD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan-Shalnov/CBD/issues"
+  },
+  "homepage": "https://github.com/Ivan-Shalnov/CBD#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "scss-reset": "^1.2.2"
+  }
+}

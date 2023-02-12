@@ -1,0 +1,23 @@
+// RESET
+@import './node_modules/scss-reset/_reset.scss';
+
+// VARS
+@import './vars.scss';
+@import './common.scss';
+
+// COMPONENTS
+@import './components/background';
+@import './components/container';
+@import './components/nav';
+@import './components/btn';
+@import './components/section';
+@import './components/feedback-list';
+
+// SECTIONS
+@import './sections/header.scss';
+@import './sections/hero.scss';
+@import './sections/sleep.scss';
+@import './sections/img-text.scss';
+@import './sections/certificates.scss';
+@import './sections/feedback.scss';
+@import './sections/footer.scss';

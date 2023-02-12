@@ -1,0 +1,19 @@
+.nav {
+  width: min-content;
+  margin-left: auto;
+  display: flex;
+  gap: 50px;
+  position: relative;
+  z-index: 2;
+  &__link {
+    font-size: 16px;
+    line-height: 27px;
+    color: #ffffff;
+    transition: $transition;
+    text-decoration: none;
+    &:hover,
+    &:focus {
+      color: rgba($text-color, 0.98);
+    }
+  }
+}

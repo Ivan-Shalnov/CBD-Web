@@ -1,0 +1,29 @@
+.feedback-sect {
+  &__subtitle {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    /* identical to box height, or 21px */
+
+    text-align: center;
+    letter-spacing: 0.255em;
+  }
+  &__title {
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 117%;
+    /* or 58px */
+
+    color: $text-accent-color;
+    text-align: center;
+  }
+  &__list {
+    margin-bottom: 50px;
+  }
+  &__btn {
+    margin: 0 auto;
+    display: block;
+    width: max-content;
+  }
+}
