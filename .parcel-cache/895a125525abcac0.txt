@@ -2,7 +2,7 @@
 144C:\Users\ivan\Documents\GitHub\CBD\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2133206392582311285 1
 81C:\Users\ivan\Documents\GitHub\CBD\node_modules\entities\lib\encode-trie.d.ts.map121436361000000000 0
 66C:\Users\ivan\Documents\GitHub\CBD\node_modules\htmlnano\README.md121436361000000000 0
-47C:\Users\ivan\Documents\GitHub\CBD\package.json133206540906985054 0
+47C:\Users\ivan\Documents\GitHub\CBD\package.json133206557866387357 0
 69C:\Users\ivan\Documents\GitHub\CBD\src\img\icons\New folder\cert3.svg133206481586886408 0
 70C:\Users\ivan\Documents\GitHub\CBD\node_modules\update-browserslist-db133206392607512653 1
 72C:\Users\ivan\Documents\GitHub\CBD\node_modules\detect-libc\package.json133206392604951665 0
@@ -27,7 +27,7 @@
 97C:\Users\ivan\Documents\GitHub\CBD\node_modules\@parcel\core\test\fixtures\custom-format-mismatch133206392586147753 1
 72C:\Users\ivan\Documents\GitHub\CBD\node_modules\abortcontroller-polyfill133206392605106827 1
 81C:\Users\ivan\Documents\GitHub\CBD\node_modules\weak-lru-cache\tests\benchmark.js121436361000000000 0
-39C:\Users\ivan\Documents\GitHub\CBD\dist133206540997237792 1
+39C:\Users\ivan\Documents\GitHub\CBD\dist133206558297031988 1
 75C:\Users\ivan\Documents\GitHub\CBD\node_modules\sass\types\value\color.d.ts121436361000000000 0
 79C:\Users\ivan\Documents\GitHub\CBD\node_modules\caniuse-lite\data\regions\KZ.js121436361000000000 0
 104C:\Users\ivan\Documents\GitHub\CBD\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md121436361000000000 0
@@ -4503,5 +4503,5 @@
 62C:\Users\ivan\Documents\GitHub\CBD\dist\index.971c2ea4.css.map133206534533490408 0
 58C:\Users\ivan\Documents\GitHub\CBD\dist\index.a1f0916a.css133206540997177737 0
 62C:\Users\ivan\Documents\GitHub\CBD\dist\index.a1f0916a.css.map133206540997217756 0
-50C:\Users\ivan\Documents\GitHub\CBD\dist\index.html133206540997177737 0
+50C:\Users\ivan\Documents\GitHub\CBD\dist\index.html133206558297011948 0
 57C:\Users\ivan\Documents\GitHub\CBD\dist\pilt.7e01813a.jpg133206528063720194 0
